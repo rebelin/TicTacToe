@@ -1,5 +1,3 @@
-# TicTacToe (Java version)
-Dec 2017
-AP Computer Science HW: 2D Array Practice
+# TicTacToe (Java version) 
 
-Simulates a two-player tic-tac-toe game.
+Simulates a two-player tic-tac-toe game for 2D Array practice in Java.
