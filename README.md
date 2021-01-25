@@ -1,4 +1,4 @@
-# TicTacToe
+# TicTacToe (Java version)
 Dec 2017
 AP Computer Science HW: 2D Array Practice
 
